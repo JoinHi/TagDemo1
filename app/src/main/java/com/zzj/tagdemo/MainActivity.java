@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //develop  分支
         //master加一个
         //这是dev   dev  增加东西
+        //修复了一个bug
         setContentView(R.layout.activity_main);
     }
 
